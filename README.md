@@ -1,5 +1,4 @@
-# Python script to generate README.md
-content = """
+
 # AI-Powered Anti-Doping System
 
 ### Revolutionizing Sports Integrity
@@ -90,4 +89,40 @@ This system integrates smartwatches, mobile apps, AI algorithms, and secure evid
    ```bash
    git clone https://github.com/your-username/anti-doping-ai.git
    cd anti-doping-ai
+   
+# Usage
+
+1. Connect your smartwatch to the mobile app.  
+2. Monitor analytics on the app dashboard.  
+3. Investigators can access the **Interactive Dashboard** for case management.  
+4. Generate secure reports and utilize AI-driven insights for decision-making.  
+
+---
+
+## Performance Matrix
+
+The system’s current accuracy stands at **50%**:  
+- **Correct Predictions:** 8 doped athletes, 2 non-doped athletes.  
+- **False Positives:** 3 cases.  
+- **False Negatives:** 7 cases.  
+
+Efforts to improve model accuracy include additional data integration and advanced training algorithms.  
+
+---
+
+## Resources  
+
+- **[Demo Video](#)**  
+- **[Use-Case Diagram](#)**  
+
+---
+
+## Contributing  
+
+Contributions are welcome! Follow these steps:  
+
+1. Fork the repository.  
+2. Create a feature branch:  
+   ```bash
+   git checkout -b feature-name
 
